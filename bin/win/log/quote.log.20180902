@@ -1,0 +1,619 @@
+[16:23:04.216.931][10492][INFO][XTP:0][init_log_file]:End: F:/xtp/bin/win/log/quote.log, api version : 1.1.18.13
+[16:23:04.217.059][10492][DEBUG][XTP:0]Begin to register quote service function.
+[16:23:04.217.081][10492][DEBUG][XTP:0]register service function ok(2250).
+[16:23:04.217.089][10492][DEBUG][XTP:0]register service function ok(2001).
+[16:23:04.217.095][10492][DEBUG][XTP:0]register service function ok(2002).
+[16:23:04.217.102][10492][DEBUG][XTP:0]register service function ok(2003).
+[16:23:04.217.107][10492][DEBUG][XTP:0]register service function ok(2200).
+[16:23:04.217.113][10492][DEBUG][XTP:0]register service function ok(2201).
+[16:23:04.217.119][10492][DEBUG][XTP:0]register service function ok(2202).
+[16:23:04.217.640][10492][DEBUG][XTP:0]register service function ok(2210).
+[16:23:04.217.647][10492][DEBUG][XTP:0]register service function ok(2211).
+[16:23:04.217.651][10492][DEBUG][XTP:0]register service function ok(2212).
+[16:23:04.217.654][10492][DEBUG][XTP:0]register service function ok(2011).
+[16:23:04.217.656][10492][DEBUG][XTP:0]register service function ok(51).
+[16:23:04.217.659][10492][DEBUG][XTP:0]register service function ok(53).
+[16:23:04.217.662][10492][DEBUG][XTP:0]register service function ok(9).
+[16:23:04.217.665][10492][DEBUG][XTP:0]register service function ok(2005).
+[16:23:04.217.668][10492][DEBUG][XTP:0]register service function ok(2006).
+[16:23:04.217.670][10492][DEBUG][XTP:0]register service function ok(2205).
+[16:23:04.217.674][10492][DEBUG][XTP:0]register service function ok(2206).
+[16:23:04.217.678][10492][DEBUG][XTP:0]register service function ok(2215).
+[16:23:04.217.681][10492][DEBUG][XTP:0]register service function ok(2216).
+[16:23:04.217.684][10492][DEBUG][XTP:0]register service function ok(2012).
+[16:23:04.217.687][10492][DEBUG][XTP:0]register service function ok(2018).
+[16:23:04.217.690][10492][DEBUG][XTP:0]register service function ok(2220).
+[16:23:04.217.693][10492][DEBUG][XTP:0]register service function ok(2222).
+[16:23:04.217.695][10492][DEBUG][XTP:0]register service function ok(2224).
+[16:23:04.217.698][10492][DEBUG][XTP:0]End to register quote service function 1.
+[16:23:04.305.412][10492][ERROR][XTP:10200003]Login to quote server failed: invalid parameters.[xtp_quote_private_api.cpp:908]
+[16:23:19.494.129][7212][INFO][XTP:0][init_log_file]:End: F:/xtp/bin/win/log/quote.log, api version : 1.1.18.13
+[16:23:19.494.184][7212][DEBUG][XTP:0]Begin to register quote service function.
+[16:23:19.494.193][7212][DEBUG][XTP:0]register service function ok(2250).
+[16:23:19.494.198][7212][DEBUG][XTP:0]register service function ok(2001).
+[16:23:19.494.202][7212][DEBUG][XTP:0]register service function ok(2002).
+[16:23:19.494.206][7212][DEBUG][XTP:0]register service function ok(2003).
+[16:23:19.494.209][7212][DEBUG][XTP:0]register service function ok(2200).
+[16:23:19.494.214][7212][DEBUG][XTP:0]register service function ok(2201).
+[16:23:19.494.218][7212][DEBUG][XTP:0]register service function ok(2202).
+[16:23:19.494.221][7212][DEBUG][XTP:0]register service function ok(2210).
+[16:23:19.494.225][7212][DEBUG][XTP:0]register service function ok(2211).
+[16:23:19.494.228][7212][DEBUG][XTP:0]register service function ok(2212).
+[16:23:19.494.232][7212][DEBUG][XTP:0]register service function ok(2011).
+[16:23:19.494.236][7212][DEBUG][XTP:0]register service function ok(51).
+[16:23:19.494.240][7212][DEBUG][XTP:0]register service function ok(53).
+[16:23:19.494.243][7212][DEBUG][XTP:0]register service function ok(9).
+[16:23:19.494.247][7212][DEBUG][XTP:0]register service function ok(2005).
+[16:23:19.494.250][7212][DEBUG][XTP:0]register service function ok(2006).
+[16:23:19.494.253][7212][DEBUG][XTP:0]register service function ok(2205).
+[16:23:19.494.257][7212][DEBUG][XTP:0]register service function ok(2206).
+[16:23:19.494.260][7212][DEBUG][XTP:0]register service function ok(2215).
+[16:23:19.494.263][7212][DEBUG][XTP:0]register service function ok(2216).
+[16:23:19.494.266][7212][DEBUG][XTP:0]register service function ok(2012).
+[16:23:19.494.269][7212][DEBUG][XTP:0]register service function ok(2018).
+[16:23:19.494.273][7212][DEBUG][XTP:0]register service function ok(2220).
+[16:23:19.494.311][7212][DEBUG][XTP:0]register service function ok(2222).
+[16:23:19.494.316][7212][DEBUG][XTP:0]register service function ok(2224).
+[16:23:19.494.320][7212][DEBUG][XTP:0]End to register quote service function 1.
+[16:24:39.135.926][21212][INFO][XTP:0][init_log_file]:End: F:/xtp/bin/win/log/quote.log, api version : 1.1.18.13
+[16:24:39.135.965][21212][DEBUG][XTP:0]Begin to register quote service function.
+[16:24:39.135.972][21212][DEBUG][XTP:0]register service function ok(2250).
+[16:24:39.135.975][21212][DEBUG][XTP:0]register service function ok(2001).
+[16:24:39.135.978][21212][DEBUG][XTP:0]register service function ok(2002).
+[16:24:39.135.981][21212][DEBUG][XTP:0]register service function ok(2003).
+[16:24:39.135.983][21212][DEBUG][XTP:0]register service function ok(2200).
+[16:24:39.135.986][21212][DEBUG][XTP:0]register service function ok(2201).
+[16:24:39.135.989][21212][DEBUG][XTP:0]register service function ok(2202).
+[16:24:39.135.992][21212][DEBUG][XTP:0]register service function ok(2210).
+[16:24:39.135.994][21212][DEBUG][XTP:0]register service function ok(2211).
+[16:24:39.135.997][21212][DEBUG][XTP:0]register service function ok(2212).
+[16:24:39.136.000][21212][DEBUG][XTP:0]register service function ok(2011).
+[16:24:39.136.002][21212][DEBUG][XTP:0]register service function ok(51).
+[16:24:39.136.005][21212][DEBUG][XTP:0]register service function ok(53).
+[16:24:39.136.008][21212][DEBUG][XTP:0]register service function ok(9).
+[16:24:39.136.011][21212][DEBUG][XTP:0]register service function ok(2005).
+[16:24:39.136.013][21212][DEBUG][XTP:0]register service function ok(2006).
+[16:24:39.136.016][21212][DEBUG][XTP:0]register service function ok(2205).
+[16:24:39.136.019][21212][DEBUG][XTP:0]register service function ok(2206).
+[16:24:39.136.022][21212][DEBUG][XTP:0]register service function ok(2215).
+[16:24:39.136.024][21212][DEBUG][XTP:0]register service function ok(2216).
+[16:24:39.136.027][21212][DEBUG][XTP:0]register service function ok(2012).
+[16:24:39.136.030][21212][DEBUG][XTP:0]register service function ok(2018).
+[16:24:39.136.032][21212][DEBUG][XTP:0]register service function ok(2220).
+[16:24:39.136.035][21212][DEBUG][XTP:0]register service function ok(2222).
+[16:24:39.136.038][21212][DEBUG][XTP:0]register service function ok(2224).
+[16:24:39.136.041][21212][DEBUG][XTP:0]End to register quote service function 1.
+[16:24:41.268.989][21212][INFO][XTP:0]Begin to login to quote server 120.27.164.138:6002.
+[16:24:41.282.282][21212][DEBUG][XTP:0]Receive login info from quote server.
+[16:24:41.282.302][21212][INFO][XTP:0]Receive trading day 20180902 from quote server success.
+[16:24:41.282.306][21212][INFO][XTP:0]Receive udp ip 230.1.1.2 from quote server success.
+[16:24:41.282.309][21212][INFO][XTP:0]Receive udp port 7722 from quote server success.
+[16:24:41.282.374][21212][INFO][XTP:0]Connect to quote server 120.27.164.138:6002 success.
+[16:24:41.282.951][21212][INFO][XTP:0]Begin to init UDP session 230.1.1.2:7722.
+[16:24:41.282.985][20400][INFO][XTP:0]thread(api work) start...
+[16:24:41.285.166][20400][DEBUG][XTP:0]service(9) call time 0
+[16:24:41.319.419][21212][INFO][XTP:0]Init thread.
+[16:24:41.324.581][21212][INFO][XTP:0]End to init UDP session 230.1.1.2:7722.
+[16:24:47.378.783][21212][INFO][XTP:0]Begin to subscribe market data with tcp.
+[16:24:47.378.860][21212][INFO][XTP:0]End to subscribe market data with tcp.
+[16:24:48.404.159][20400][DEBUG][XTP:0]Receive subscribe market data.
+[16:24:52.412.029][20400][DEBUG][XTP:0]Receive subscribe market data success.
+[16:24:52.412.070][20400][DEBUG][XTP:0]service(2005) call time 4007912
+[16:24:52.412.091][20400][DEBUG][XTP:0]Receive last market data.
+[16:24:52.412.137][20400][DEBUG][XTP:0]Receive last market data success.
+[16:24:52.412.154][20400][DEBUG][XTP:0]service(2018) call time 64
+[16:33:04.551.875][11856][INFO][XTP:0][init_log_file]:End: F:/xtp/bin/win/log/quote.log, api version : 1.1.18.13
+[16:33:04.551.915][11856][DEBUG][XTP:0]Begin to register quote service function.
+[16:33:04.551.921][11856][DEBUG][XTP:0]register service function ok(2250).
+[16:33:04.551.950][11856][DEBUG][XTP:0]register service function ok(2001).
+[16:33:04.551.955][11856][DEBUG][XTP:0]register service function ok(2002).
+[16:33:04.551.958][11856][DEBUG][XTP:0]register service function ok(2003).
+[16:33:04.551.961][11856][DEBUG][XTP:0]register service function ok(2200).
+[16:33:04.551.963][11856][DEBUG][XTP:0]register service function ok(2201).
+[16:33:04.551.966][11856][DEBUG][XTP:0]register service function ok(2202).
+[16:33:04.551.969][11856][DEBUG][XTP:0]register service function ok(2210).
+[16:33:04.551.972][11856][DEBUG][XTP:0]register service function ok(2211).
+[16:33:04.551.975][11856][DEBUG][XTP:0]register service function ok(2212).
+[16:33:04.551.977][11856][DEBUG][XTP:0]register service function ok(2011).
+[16:33:04.551.980][11856][DEBUG][XTP:0]register service function ok(51).
+[16:33:04.551.983][11856][DEBUG][XTP:0]register service function ok(53).
+[16:33:04.551.986][11856][DEBUG][XTP:0]register service function ok(9).
+[16:33:04.551.989][11856][DEBUG][XTP:0]register service function ok(2005).
+[16:33:04.551.992][11856][DEBUG][XTP:0]register service function ok(2006).
+[16:33:04.551.994][11856][DEBUG][XTP:0]register service function ok(2205).
+[16:33:04.551.997][11856][DEBUG][XTP:0]register service function ok(2206).
+[16:33:04.552.000][11856][DEBUG][XTP:0]register service function ok(2215).
+[16:33:04.552.003][11856][DEBUG][XTP:0]register service function ok(2216).
+[16:33:04.552.005][11856][DEBUG][XTP:0]register service function ok(2012).
+[16:33:04.552.008][11856][DEBUG][XTP:0]register service function ok(2018).
+[16:33:04.552.011][11856][DEBUG][XTP:0]register service function ok(2220).
+[16:33:04.552.014][11856][DEBUG][XTP:0]register service function ok(2222).
+[16:33:04.552.016][11856][DEBUG][XTP:0]register service function ok(2224).
+[16:33:04.552.019][11856][DEBUG][XTP:0]End to register quote service function 1.
+[16:33:04.645.912][11856][INFO][XTP:0]Begin to login to quote server 120.27.164.138:6002.
+[16:33:04.667.864][11856][DEBUG][XTP:0]Receive login info from quote server.
+[16:33:04.667.887][11856][INFO][XTP:0]Receive trading day 20180902 from quote server success.
+[16:33:04.667.891][11856][INFO][XTP:0]Receive udp ip 230.1.1.2 from quote server success.
+[16:33:04.667.894][11856][INFO][XTP:0]Receive udp port 7722 from quote server success.
+[16:33:04.667.968][11856][INFO][XTP:0]Connect to quote server 120.27.164.138:6002 success.
+[16:33:04.668.592][11856][INFO][XTP:0]Begin to init UDP session 230.1.1.2:7722.
+[16:33:04.668.625][8752][INFO][XTP:0]thread(api work) start...
+[16:33:04.673.895][8752][DEBUG][XTP:0]service(9) call time 1
+[16:33:04.705.280][11856][INFO][XTP:0]Init thread.
+[16:33:04.710.908][11856][INFO][XTP:0]End to init UDP session 230.1.1.2:7722.
+[16:33:04.710.953][11856][INFO][XTP:0]Begin to subscribe market data with tcp.
+[16:33:04.711.002][11856][INFO][XTP:0]End to subscribe market data with tcp.
+[16:33:04.717.049][8752][DEBUG][XTP:0]Receive subscribe market data.
+[16:33:04.717.582][8752][DEBUG][XTP:0]Receive subscribe market data success.
+[16:33:04.717.596][8752][DEBUG][XTP:0]service(2005) call time 548
+[16:33:04.717.613][8752][DEBUG][XTP:0]Receive last market data.
+[16:33:04.717.623][8752][DEBUG][XTP:0]Receive last market data success.
+[16:33:04.717.629][8752][DEBUG][XTP:0]service(2018) call time 16
+[16:33:09.916.951][21080][INFO][XTP:0][init_log_file]:End: F:/xtp/bin/win/log/quote.log, api version : 1.1.18.13
+[16:33:09.916.988][21080][DEBUG][XTP:0]Begin to register quote service function.
+[16:33:09.916.994][21080][DEBUG][XTP:0]register service function ok(2250).
+[16:33:09.916.997][21080][DEBUG][XTP:0]register service function ok(2001).
+[16:33:09.917.000][21080][DEBUG][XTP:0]register service function ok(2002).
+[16:33:09.917.003][21080][DEBUG][XTP:0]register service function ok(2003).
+[16:33:09.917.006][21080][DEBUG][XTP:0]register service function ok(2200).
+[16:33:09.917.009][21080][DEBUG][XTP:0]register service function ok(2201).
+[16:33:09.917.012][21080][DEBUG][XTP:0]register service function ok(2202).
+[16:33:09.917.014][21080][DEBUG][XTP:0]register service function ok(2210).
+[16:33:09.917.043][21080][DEBUG][XTP:0]register service function ok(2211).
+[16:33:09.917.048][21080][DEBUG][XTP:0]register service function ok(2212).
+[16:33:09.917.051][21080][DEBUG][XTP:0]register service function ok(2011).
+[16:33:09.917.053][21080][DEBUG][XTP:0]register service function ok(51).
+[16:33:09.917.056][21080][DEBUG][XTP:0]register service function ok(53).
+[16:33:09.917.059][21080][DEBUG][XTP:0]register service function ok(9).
+[16:33:09.917.061][21080][DEBUG][XTP:0]register service function ok(2005).
+[16:33:09.917.064][21080][DEBUG][XTP:0]register service function ok(2006).
+[16:33:09.917.067][21080][DEBUG][XTP:0]register service function ok(2205).
+[16:33:09.917.070][21080][DEBUG][XTP:0]register service function ok(2206).
+[16:33:09.917.072][21080][DEBUG][XTP:0]register service function ok(2215).
+[16:33:09.917.075][21080][DEBUG][XTP:0]register service function ok(2216).
+[16:33:09.917.078][21080][DEBUG][XTP:0]register service function ok(2012).
+[16:33:09.917.080][21080][DEBUG][XTP:0]register service function ok(2018).
+[16:33:09.917.083][21080][DEBUG][XTP:0]register service function ok(2220).
+[16:33:09.917.086][21080][DEBUG][XTP:0]register service function ok(2222).
+[16:33:09.917.089][21080][DEBUG][XTP:0]register service function ok(2224).
+[16:33:09.917.093][21080][DEBUG][XTP:0]End to register quote service function 1.
+[16:33:10.008.240][21080][INFO][XTP:0]Begin to login to quote server 120.27.164.138:6002.
+[16:33:10.029.739][21080][DEBUG][XTP:0]Receive login info from quote server.
+[16:33:10.029.757][21080][INFO][XTP:0]Receive trading day 20180902 from quote server success.
+[16:33:10.029.763][21080][INFO][XTP:0]Receive udp ip 230.1.1.2 from quote server success.
+[16:33:10.029.768][21080][INFO][XTP:0]Receive udp port 7722 from quote server success.
+[16:33:10.029.845][21080][INFO][XTP:0]Connect to quote server 120.27.164.138:6002 success.
+[16:33:10.030.599][21080][INFO][XTP:0]Begin to init UDP session 230.1.1.2:7722.
+[16:33:10.030.650][20176][INFO][XTP:0]thread(api work) start...
+[16:33:10.035.214][20176][DEBUG][XTP:0]service(9) call time 1
+[16:33:10.071.794][21080][INFO][XTP:0]Init thread.
+[16:33:10.077.334][21080][INFO][XTP:0]End to init UDP session 230.1.1.2:7722.
+[16:33:10.077.359][21080][INFO][XTP:0]Begin to subscribe market data with tcp.
+[16:33:10.077.396][21080][INFO][XTP:0]End to subscribe market data with tcp.
+[16:33:10.082.788][20176][DEBUG][XTP:0]Receive subscribe market data.
+[16:33:10.083.226][20176][DEBUG][XTP:0]Receive subscribe market data success.
+[16:33:10.083.235][20176][DEBUG][XTP:0]service(2005) call time 447
+[16:33:10.083.412][20176][DEBUG][XTP:0]Receive last market data.
+[16:33:10.083.423][20176][DEBUG][XTP:0]Receive last market data success.
+[16:33:10.083.427][20176][DEBUG][XTP:0]service(2018) call time 15
+[16:33:24.412.966][15464][INFO][XTP:0][init_log_file]:End: F:/xtp/bin/win/log/quote.log, api version : 1.1.18.13
+[16:33:24.413.010][15464][DEBUG][XTP:0]Begin to register quote service function.
+[16:33:24.413.016][15464][DEBUG][XTP:0]register service function ok(2250).
+[16:33:24.413.020][15464][DEBUG][XTP:0]register service function ok(2001).
+[16:33:24.413.023][15464][DEBUG][XTP:0]register service function ok(2002).
+[16:33:24.413.025][15464][DEBUG][XTP:0]register service function ok(2003).
+[16:33:24.413.028][15464][DEBUG][XTP:0]register service function ok(2200).
+[16:33:24.413.031][15464][DEBUG][XTP:0]register service function ok(2201).
+[16:33:24.413.033][15464][DEBUG][XTP:0]register service function ok(2202).
+[16:33:24.413.036][15464][DEBUG][XTP:0]register service function ok(2210).
+[16:33:24.413.039][15464][DEBUG][XTP:0]register service function ok(2211).
+[16:33:24.413.041][15464][DEBUG][XTP:0]register service function ok(2212).
+[16:33:24.413.044][15464][DEBUG][XTP:0]register service function ok(2011).
+[16:33:24.413.047][15464][DEBUG][XTP:0]register service function ok(51).
+[16:33:24.413.050][15464][DEBUG][XTP:0]register service function ok(53).
+[16:33:24.413.052][15464][DEBUG][XTP:0]register service function ok(9).
+[16:33:24.413.055][15464][DEBUG][XTP:0]register service function ok(2005).
+[16:33:24.413.085][15464][DEBUG][XTP:0]register service function ok(2006).
+[16:33:24.413.090][15464][DEBUG][XTP:0]register service function ok(2205).
+[16:33:24.413.092][15464][DEBUG][XTP:0]register service function ok(2206).
+[16:33:24.413.095][15464][DEBUG][XTP:0]register service function ok(2215).
+[16:33:24.413.098][15464][DEBUG][XTP:0]register service function ok(2216).
+[16:33:24.413.100][15464][DEBUG][XTP:0]register service function ok(2012).
+[16:33:24.413.103][15464][DEBUG][XTP:0]register service function ok(2018).
+[16:33:24.413.106][15464][DEBUG][XTP:0]register service function ok(2220).
+[16:33:24.413.109][15464][DEBUG][XTP:0]register service function ok(2222).
+[16:33:24.413.111][15464][DEBUG][XTP:0]register service function ok(2224).
+[16:33:24.413.114][15464][DEBUG][XTP:0]End to register quote service function 1.
+[16:33:24.511.459][15464][INFO][XTP:0]Begin to login to quote server 120.27.164.138:6002.
+[16:33:24.532.846][15464][DEBUG][XTP:0]Receive login info from quote server.
+[16:33:24.532.873][15464][INFO][XTP:0]Receive trading day 20180902 from quote server success.
+[16:33:24.532.878][15464][INFO][XTP:0]Receive udp ip 230.1.1.2 from quote server success.
+[16:33:24.532.882][15464][INFO][XTP:0]Receive udp port 7722 from quote server success.
+[16:33:24.532.972][15464][INFO][XTP:0]Connect to quote server 120.27.164.138:6002 success.
+[16:33:24.533.741][15464][INFO][XTP:0]Begin to init UDP session 230.1.1.2:7722.
+[16:33:24.533.770][7812][INFO][XTP:0]thread(api work) start...
+[16:33:24.538.443][7812][DEBUG][XTP:0]service(9) call time 0
+[16:33:24.570.098][15464][INFO][XTP:0]Init thread.
+[16:33:24.575.671][15464][INFO][XTP:0]End to init UDP session 230.1.1.2:7722.
+[16:33:24.575.708][15464][INFO][XTP:0]Begin to subscribe market data with tcp.
+[16:33:24.575.756][15464][INFO][XTP:0]End to subscribe market data with tcp.
+[16:33:24.581.277][7812][DEBUG][XTP:0]Receive subscribe market data.
+[16:33:24.581.680][7812][DEBUG][XTP:0]Receive subscribe market data success.
+[16:33:24.581.692][7812][DEBUG][XTP:0]service(2005) call time 416
+[16:33:24.581.873][7812][DEBUG][XTP:0]Receive last market data.
+[16:33:24.581.885][7812][DEBUG][XTP:0]Receive last market data success.
+[16:33:24.581.890][7812][DEBUG][XTP:0]service(2018) call time 18
+[16:33:38.995.317][13184][INFO][XTP:0][init_log_file]:End: F:/xtp/bin/win/log/quote.log, api version : 1.1.18.13
+[16:33:38.995.373][13184][DEBUG][XTP:0]Begin to register quote service function.
+[16:33:38.995.382][13184][DEBUG][XTP:0]register service function ok(2250).
+[16:33:38.995.386][13184][DEBUG][XTP:0]register service function ok(2001).
+[16:33:38.995.390][13184][DEBUG][XTP:0]register service function ok(2002).
+[16:33:38.995.395][13184][DEBUG][XTP:0]register service function ok(2003).
+[16:33:38.995.399][13184][DEBUG][XTP:0]register service function ok(2200).
+[16:33:38.995.403][13184][DEBUG][XTP:0]register service function ok(2201).
+[16:33:38.995.407][13184][DEBUG][XTP:0]register service function ok(2202).
+[16:33:38.995.411][13184][DEBUG][XTP:0]register service function ok(2210).
+[16:33:38.995.415][13184][DEBUG][XTP:0]register service function ok(2211).
+[16:33:38.995.419][13184][DEBUG][XTP:0]register service function ok(2212).
+[16:33:38.995.423][13184][DEBUG][XTP:0]register service function ok(2011).
+[16:33:38.995.427][13184][DEBUG][XTP:0]register service function ok(51).
+[16:33:38.995.431][13184][DEBUG][XTP:0]register service function ok(53).
+[16:33:38.995.435][13184][DEBUG][XTP:0]register service function ok(9).
+[16:33:38.995.439][13184][DEBUG][XTP:0]register service function ok(2005).
+[16:33:38.995.443][13184][DEBUG][XTP:0]register service function ok(2006).
+[16:33:38.995.447][13184][DEBUG][XTP:0]register service function ok(2205).
+[16:33:38.995.451][13184][DEBUG][XTP:0]register service function ok(2206).
+[16:33:38.995.455][13184][DEBUG][XTP:0]register service function ok(2215).
+[16:33:38.995.459][13184][DEBUG][XTP:0]register service function ok(2216).
+[16:33:38.995.463][13184][DEBUG][XTP:0]register service function ok(2012).
+[16:33:38.995.467][13184][DEBUG][XTP:0]register service function ok(2018).
+[16:33:38.995.506][13184][DEBUG][XTP:0]register service function ok(2220).
+[16:33:38.995.512][13184][DEBUG][XTP:0]register service function ok(2222).
+[16:33:38.995.516][13184][DEBUG][XTP:0]register service function ok(2224).
+[16:33:38.995.520][13184][DEBUG][XTP:0]End to register quote service function 1.
+[16:33:39.085.809][13184][INFO][XTP:0]Begin to login to quote server 120.27.164.138:6002.
+[16:33:39.105.112][13184][DEBUG][XTP:0]Receive login info from quote server.
+[16:33:39.105.137][13184][INFO][XTP:0]Receive trading day 20180902 from quote server success.
+[16:33:39.105.142][13184][INFO][XTP:0]Receive udp ip 230.1.1.2 from quote server success.
+[16:33:39.105.145][13184][INFO][XTP:0]Receive udp port 7722 from quote server success.
+[16:33:39.105.220][13184][INFO][XTP:0]Connect to quote server 120.27.164.138:6002 success.
+[16:33:39.106.002][13184][INFO][XTP:0]Begin to init UDP session 230.1.1.2:7722.
+[16:33:39.106.033][21492][INFO][XTP:0]thread(api work) start...
+[16:33:39.108.282][21492][DEBUG][XTP:0]service(9) call time 0
+[16:33:39.144.891][13184][INFO][XTP:0]Init thread.
+[16:33:39.150.152][13184][INFO][XTP:0]End to init UDP session 230.1.1.2:7722.
+[16:33:39.150.182][13184][INFO][XTP:0]Begin to subscribe market data with tcp.
+[16:33:39.150.230][13184][INFO][XTP:0]End to subscribe market data with tcp.
+[16:33:39.153.419][21492][DEBUG][XTP:0]Receive subscribe market data.
+[16:33:39.153.839][21492][DEBUG][XTP:0]Receive subscribe market data success.
+[16:33:39.153.850][21492][DEBUG][XTP:0]service(2005) call time 432
+[16:33:39.154.162][21492][DEBUG][XTP:0]Receive last market data.
+[16:33:39.154.176][21492][DEBUG][XTP:0]Receive last market data success.
+[16:33:39.154.180][21492][DEBUG][XTP:0]service(2018) call time 19
+[16:33:46.328.854][14888][INFO][XTP:0][init_log_file]:End: F:/xtp/bin/win/log/quote.log, api version : 1.1.18.13
+[16:33:46.328.903][14888][DEBUG][XTP:0]Begin to register quote service function.
+[16:33:46.328.913][14888][DEBUG][XTP:0]register service function ok(2250).
+[16:33:46.328.918][14888][DEBUG][XTP:0]register service function ok(2001).
+[16:33:46.328.922][14888][DEBUG][XTP:0]register service function ok(2002).
+[16:33:46.328.926][14888][DEBUG][XTP:0]register service function ok(2003).
+[16:33:46.328.930][14888][DEBUG][XTP:0]register service function ok(2200).
+[16:33:46.328.933][14888][DEBUG][XTP:0]register service function ok(2201).
+[16:33:46.328.937][14888][DEBUG][XTP:0]register service function ok(2202).
+[16:33:46.328.941][14888][DEBUG][XTP:0]register service function ok(2210).
+[16:33:46.328.945][14888][DEBUG][XTP:0]register service function ok(2211).
+[16:33:46.328.949][14888][DEBUG][XTP:0]register service function ok(2212).
+[16:33:46.328.953][14888][DEBUG][XTP:0]register service function ok(2011).
+[16:33:46.328.957][14888][DEBUG][XTP:0]register service function ok(51).
+[16:33:46.328.961][14888][DEBUG][XTP:0]register service function ok(53).
+[16:33:46.328.965][14888][DEBUG][XTP:0]register service function ok(9).
+[16:33:46.328.969][14888][DEBUG][XTP:0]register service function ok(2005).
+[16:33:46.328.973][14888][DEBUG][XTP:0]register service function ok(2006).
+[16:33:46.328.977][14888][DEBUG][XTP:0]register service function ok(2205).
+[16:33:46.328.981][14888][DEBUG][XTP:0]register service function ok(2206).
+[16:33:46.328.985][14888][DEBUG][XTP:0]register service function ok(2215).
+[16:33:46.328.989][14888][DEBUG][XTP:0]register service function ok(2216).
+[16:33:46.328.992][14888][DEBUG][XTP:0]register service function ok(2012).
+[16:33:46.328.996][14888][DEBUG][XTP:0]register service function ok(2018).
+[16:33:46.329.000][14888][DEBUG][XTP:0]register service function ok(2220).
+[16:33:46.329.004][14888][DEBUG][XTP:0]register service function ok(2222).
+[16:33:46.329.008][14888][DEBUG][XTP:0]register service function ok(2224).
+[16:33:46.329.012][14888][DEBUG][XTP:0]End to register quote service function 1.
+[16:33:46.417.382][14888][INFO][XTP:0]Begin to login to quote server 120.27.164.138:6002.
+[16:33:46.444.994][14888][DEBUG][XTP:0]Receive login info from quote server.
+[16:33:46.445.056][14888][INFO][XTP:0]Receive trading day 20180902 from quote server success.
+[16:33:46.445.063][14888][INFO][XTP:0]Receive udp ip 230.1.1.2 from quote server success.
+[16:33:46.445.066][14888][INFO][XTP:0]Receive udp port 7722 from quote server success.
+[16:33:46.445.140][14888][INFO][XTP:0]Connect to quote server 120.27.164.138:6002 success.
+[16:33:46.445.838][14888][INFO][XTP:0]Begin to init UDP session 230.1.1.2:7722.
+[16:33:46.445.874][20484][INFO][XTP:0]thread(api work) start...
+[16:33:46.450.458][20484][DEBUG][XTP:0]service(9) call time 1
+[16:33:46.482.700][14888][INFO][XTP:0]Init thread.
+[16:33:46.488.219][14888][INFO][XTP:0]End to init UDP session 230.1.1.2:7722.
+[16:33:46.488.252][14888][INFO][XTP:0]Begin to subscribe market data with tcp.
+[16:33:46.488.292][14888][INFO][XTP:0]End to subscribe market data with tcp.
+[16:33:46.494.097][20484][DEBUG][XTP:0]Receive subscribe market data.
+[16:33:46.494.493][20484][DEBUG][XTP:0]Receive subscribe market data success.
+[16:33:46.494.502][20484][DEBUG][XTP:0]service(2005) call time 406
+[16:33:46.494.516][20484][DEBUG][XTP:0]Receive last market data.
+[16:33:46.494.522][20484][DEBUG][XTP:0]Receive last market data success.
+[16:33:46.494.526][20484][DEBUG][XTP:0]service(2018) call time 10
+[16:34:27.590.194][452][INFO][XTP:0][init_log_file]:End: F:/xtp/bin/win/log/quote.log, api version : 1.1.18.13
+[16:34:27.590.245][452][DEBUG][XTP:0]Begin to register quote service function.
+[16:34:27.590.253][452][DEBUG][XTP:0]register service function ok(2250).
+[16:34:27.590.258][452][DEBUG][XTP:0]register service function ok(2001).
+[16:34:27.590.262][452][DEBUG][XTP:0]register service function ok(2002).
+[16:34:27.590.266][452][DEBUG][XTP:0]register service function ok(2003).
+[16:34:27.590.270][452][DEBUG][XTP:0]register service function ok(2200).
+[16:34:27.590.274][452][DEBUG][XTP:0]register service function ok(2201).
+[16:34:27.590.278][452][DEBUG][XTP:0]register service function ok(2202).
+[16:34:27.590.281][452][DEBUG][XTP:0]register service function ok(2210).
+[16:34:27.590.285][452][DEBUG][XTP:0]register service function ok(2211).
+[16:34:27.590.289][452][DEBUG][XTP:0]register service function ok(2212).
+[16:34:27.590.292][452][DEBUG][XTP:0]register service function ok(2011).
+[16:34:27.590.296][452][DEBUG][XTP:0]register service function ok(51).
+[16:34:27.590.300][452][DEBUG][XTP:0]register service function ok(53).
+[16:34:27.590.304][452][DEBUG][XTP:0]register service function ok(9).
+[16:34:27.590.308][452][DEBUG][XTP:0]register service function ok(2005).
+[16:34:27.590.311][452][DEBUG][XTP:0]register service function ok(2006).
+[16:34:27.590.315][452][DEBUG][XTP:0]register service function ok(2205).
+[16:34:27.590.319][452][DEBUG][XTP:0]register service function ok(2206).
+[16:34:27.590.322][452][DEBUG][XTP:0]register service function ok(2215).
+[16:34:27.590.326][452][DEBUG][XTP:0]register service function ok(2216).
+[16:34:27.590.330][452][DEBUG][XTP:0]register service function ok(2012).
+[16:34:27.590.333][452][DEBUG][XTP:0]register service function ok(2018).
+[16:34:27.590.337][452][DEBUG][XTP:0]register service function ok(2220).
+[16:34:27.590.341][452][DEBUG][XTP:0]register service function ok(2222).
+[16:34:27.590.345][452][DEBUG][XTP:0]register service function ok(2224).
+[16:34:27.590.348][452][DEBUG][XTP:0]End to register quote service function 1.
+[16:34:27.679.216][452][INFO][XTP:0]Begin to login to quote server 120.27.164.138:6002.
+[16:34:27.699.830][452][DEBUG][XTP:0]Receive login info from quote server.
+[16:34:27.699.849][452][INFO][XTP:0]Receive trading day 20180902 from quote server success.
+[16:34:27.699.854][452][INFO][XTP:0]Receive udp ip 230.1.1.2 from quote server success.
+[16:34:27.699.858][452][INFO][XTP:0]Receive udp port 7722 from quote server success.
+[16:34:27.699.942][452][INFO][XTP:0]Connect to quote server 120.27.164.138:6002 success.
+[16:34:27.700.812][452][INFO][XTP:0]Begin to init UDP session 230.1.1.2:7722.
+[16:34:27.700.868][6608][INFO][XTP:0]thread(api work) start...
+[16:34:27.705.556][6608][DEBUG][XTP:0]service(9) call time 0
+[16:34:27.740.526][452][INFO][XTP:0]Init thread.
+[16:34:27.745.300][452][INFO][XTP:0]End to init UDP session 230.1.1.2:7722.
+[16:34:27.745.331][452][INFO][XTP:0]Begin to subscribe market data with tcp.
+[16:34:27.746.199][452][INFO][XTP:0]End to subscribe market data with tcp.
+[16:34:27.751.096][6608][DEBUG][XTP:0]Receive subscribe market data.
+[16:34:38.988.606][6608][DEBUG][XTP:0]Receive subscribe market data success.
+[16:34:38.988.664][6608][DEBUG][XTP:0]service(2005) call time 11237568
+[16:34:38.988.750][6608][DEBUG][XTP:0]Receive last market data.
+[16:34:38.988.790][6608][DEBUG][XTP:0]Receive last market data success.
+[16:34:38.988.813][6608][DEBUG][XTP:0]service(2018) call time 64
+[16:35:30.948.077][10724][INFO][XTP:0][init_log_file]:End: F:/xtp/bin/win/log/quote.log, api version : 1.1.18.13
+[16:35:30.948.175][10724][DEBUG][XTP:0]Begin to register quote service function.
+[16:35:30.948.194][10724][DEBUG][XTP:0]register service function ok(2250).
+[16:35:30.948.204][10724][DEBUG][XTP:0]register service function ok(2001).
+[16:35:30.948.213][10724][DEBUG][XTP:0]register service function ok(2002).
+[16:35:30.948.221][10724][DEBUG][XTP:0]register service function ok(2003).
+[16:35:30.948.229][10724][DEBUG][XTP:0]register service function ok(2200).
+[16:35:30.948.237][10724][DEBUG][XTP:0]register service function ok(2201).
+[16:35:30.948.246][10724][DEBUG][XTP:0]register service function ok(2202).
+[16:35:30.948.254][10724][DEBUG][XTP:0]register service function ok(2210).
+[16:35:30.948.263][10724][DEBUG][XTP:0]register service function ok(2211).
+[16:35:30.948.271][10724][DEBUG][XTP:0]register service function ok(2212).
+[16:35:30.948.279][10724][DEBUG][XTP:0]register service function ok(2011).
+[16:35:30.948.287][10724][DEBUG][XTP:0]register service function ok(51).
+[16:35:30.948.296][10724][DEBUG][XTP:0]register service function ok(53).
+[16:35:30.948.304][10724][DEBUG][XTP:0]register service function ok(9).
+[16:35:30.948.313][10724][DEBUG][XTP:0]register service function ok(2005).
+[16:35:30.948.322][10724][DEBUG][XTP:0]register service function ok(2006).
+[16:35:30.948.330][10724][DEBUG][XTP:0]register service function ok(2205).
+[16:35:30.948.338][10724][DEBUG][XTP:0]register service function ok(2206).
+[16:35:30.948.346][10724][DEBUG][XTP:0]register service function ok(2215).
+[16:35:30.948.355][10724][DEBUG][XTP:0]register service function ok(2216).
+[16:35:30.948.363][10724][DEBUG][XTP:0]register service function ok(2012).
+[16:35:30.948.371][10724][DEBUG][XTP:0]register service function ok(2018).
+[16:35:30.948.380][10724][DEBUG][XTP:0]register service function ok(2220).
+[16:35:30.948.389][10724][DEBUG][XTP:0]register service function ok(2222).
+[16:35:30.948.397][10724][DEBUG][XTP:0]register service function ok(2224).
+[16:35:30.948.405][10724][DEBUG][XTP:0]End to register quote service function 1.
+[16:35:31.055.109][10724][INFO][XTP:0]Begin to login to quote server 120.27.164.138:6002.
+[16:35:31.069.045][10724][DEBUG][XTP:0]Receive login info from quote server.
+[16:35:31.069.067][10724][INFO][XTP:0]Receive trading day 20180902 from quote server success.
+[16:35:31.069.072][10724][INFO][XTP:0]Receive udp ip 230.1.1.2 from quote server success.
+[16:35:31.069.075][10724][INFO][XTP:0]Receive udp port 7722 from quote server success.
+[16:35:31.069.140][10724][INFO][XTP:0]Connect to quote server 120.27.164.138:6002 success.
+[16:35:31.069.796][10724][INFO][XTP:0]Begin to init UDP session 230.1.1.2:7722.
+[16:35:31.069.832][20504][INFO][XTP:0]thread(api work) start...
+[16:35:31.071.986][20504][DEBUG][XTP:0]service(9) call time 0
+[16:35:31.109.796][10724][INFO][XTP:0]Init thread.
+[16:35:31.115.903][10724][INFO][XTP:0]End to init UDP session 230.1.1.2:7722.
+[16:35:31.115.933][10724][INFO][XTP:0]Begin to subscribe market data with tcp.
+[16:35:31.115.983][10724][INFO][XTP:0]End to subscribe market data with tcp.
+[16:35:31.119.126][20504][DEBUG][XTP:0]Receive subscribe market data.
+[16:35:31.119.558][20504][DEBUG][XTP:0]Receive subscribe market data success.
+[16:35:31.119.570][20504][DEBUG][XTP:0]service(2005) call time 445
+[16:35:31.119.589][20504][DEBUG][XTP:0]Receive last market data.
+[16:35:31.119.702][20504][DEBUG][XTP:0]Receive last market data success.
+[16:35:31.119.709][20504][DEBUG][XTP:0]service(2018) call time 121
+[16:35:41.630.094][7764][INFO][XTP:0][init_log_file]:End: F:/xtp/bin/win/log/quote.log, api version : 1.1.18.13
+[16:35:41.630.136][7764][DEBUG][XTP:0]Begin to register quote service function.
+[16:35:41.630.144][7764][DEBUG][XTP:0]register service function ok(2250).
+[16:35:41.630.148][7764][DEBUG][XTP:0]register service function ok(2001).
+[16:35:41.630.152][7764][DEBUG][XTP:0]register service function ok(2002).
+[16:35:41.630.156][7764][DEBUG][XTP:0]register service function ok(2003).
+[16:35:41.630.160][7764][DEBUG][XTP:0]register service function ok(2200).
+[16:35:41.630.163][7764][DEBUG][XTP:0]register service function ok(2201).
+[16:35:41.630.167][7764][DEBUG][XTP:0]register service function ok(2202).
+[16:35:41.630.171][7764][DEBUG][XTP:0]register service function ok(2210).
+[16:35:41.630.174][7764][DEBUG][XTP:0]register service function ok(2211).
+[16:35:41.630.178][7764][DEBUG][XTP:0]register service function ok(2212).
+[16:35:41.630.182][7764][DEBUG][XTP:0]register service function ok(2011).
+[16:35:41.630.185][7764][DEBUG][XTP:0]register service function ok(51).
+[16:35:41.630.189][7764][DEBUG][XTP:0]register service function ok(53).
+[16:35:41.630.193][7764][DEBUG][XTP:0]register service function ok(9).
+[16:35:41.630.197][7764][DEBUG][XTP:0]register service function ok(2005).
+[16:35:41.630.201][7764][DEBUG][XTP:0]register service function ok(2006).
+[16:35:41.630.204][7764][DEBUG][XTP:0]register service function ok(2205).
+[16:35:41.630.208][7764][DEBUG][XTP:0]register service function ok(2206).
+[16:35:41.630.212][7764][DEBUG][XTP:0]register service function ok(2215).
+[16:35:41.630.215][7764][DEBUG][XTP:0]register service function ok(2216).
+[16:35:41.630.219][7764][DEBUG][XTP:0]register service function ok(2012).
+[16:35:41.630.222][7764][DEBUG][XTP:0]register service function ok(2018).
+[16:35:41.630.226][7764][DEBUG][XTP:0]register service function ok(2220).
+[16:35:41.630.230][7764][DEBUG][XTP:0]register service function ok(2222).
+[16:35:41.630.233][7764][DEBUG][XTP:0]register service function ok(2224).
+[16:35:41.630.237][7764][DEBUG][XTP:0]End to register quote service function 1.
+[16:35:41.719.397][7764][INFO][XTP:0]Begin to login to quote server 120.27.164.138:6002.
+[16:35:41.731.698][7764][DEBUG][XTP:0]Receive login info from quote server.
+[16:35:41.731.720][7764][INFO][XTP:0]Receive trading day 20180902 from quote server success.
+[16:35:41.731.725][7764][INFO][XTP:0]Receive udp ip 230.1.1.2 from quote server success.
+[16:35:41.731.729][7764][INFO][XTP:0]Receive udp port 7722 from quote server success.
+[16:35:41.731.803][7764][INFO][XTP:0]Connect to quote server 120.27.164.138:6002 success.
+[16:35:41.731.816][7764][INFO][XTP:0]Begin to init UDP session 230.1.1.2:7722.
+[16:35:41.733.072][2292][INFO][XTP:0]thread(api work) start...
+[16:35:41.734.994][2292][DEBUG][XTP:0]service(9) call time 0
+[16:35:41.771.201][7764][INFO][XTP:0]Init thread.
+[16:35:41.777.014][7764][INFO][XTP:0]End to init UDP session 230.1.1.2:7722.
+[16:35:41.777.052][7764][INFO][XTP:0]Begin to subscribe market data with tcp.
+[16:35:41.777.102][7764][INFO][XTP:0]End to subscribe market data with tcp.
+[16:35:41.780.110][2292][DEBUG][XTP:0]Receive subscribe market data.
+[16:35:41.780.542][2292][DEBUG][XTP:0]Receive subscribe market data success.
+[16:35:41.780.554][2292][DEBUG][XTP:0]service(2005) call time 444
+[16:35:41.781.078][2292][DEBUG][XTP:0]Receive last market data.
+[16:37:13.678.922][9168][INFO][XTP:0][init_log_file]:End: F:/xtp/bin/win/log/quote.log, api version : 1.1.18.13
+[16:37:13.678.962][9168][DEBUG][XTP:0]Begin to register quote service function.
+[16:37:13.678.969][9168][DEBUG][XTP:0]register service function ok(2250).
+[16:37:13.678.972][9168][DEBUG][XTP:0]register service function ok(2001).
+[16:37:13.678.975][9168][DEBUG][XTP:0]register service function ok(2002).
+[16:37:13.678.978][9168][DEBUG][XTP:0]register service function ok(2003).
+[16:37:13.678.981][9168][DEBUG][XTP:0]register service function ok(2200).
+[16:37:13.679.010][9168][DEBUG][XTP:0]register service function ok(2201).
+[16:37:13.679.014][9168][DEBUG][XTP:0]register service function ok(2202).
+[16:37:13.679.017][9168][DEBUG][XTP:0]register service function ok(2210).
+[16:37:13.679.020][9168][DEBUG][XTP:0]register service function ok(2211).
+[16:37:13.679.023][9168][DEBUG][XTP:0]register service function ok(2212).
+[16:37:13.679.025][9168][DEBUG][XTP:0]register service function ok(2011).
+[16:37:13.679.028][9168][DEBUG][XTP:0]register service function ok(51).
+[16:37:13.679.031][9168][DEBUG][XTP:0]register service function ok(53).
+[16:37:13.679.034][9168][DEBUG][XTP:0]register service function ok(9).
+[16:37:13.679.037][9168][DEBUG][XTP:0]register service function ok(2005).
+[16:37:13.679.039][9168][DEBUG][XTP:0]register service function ok(2006).
+[16:37:13.679.042][9168][DEBUG][XTP:0]register service function ok(2205).
+[16:37:13.679.045][9168][DEBUG][XTP:0]register service function ok(2206).
+[16:37:13.679.047][9168][DEBUG][XTP:0]register service function ok(2215).
+[16:37:13.679.050][9168][DEBUG][XTP:0]register service function ok(2216).
+[16:37:13.679.053][9168][DEBUG][XTP:0]register service function ok(2012).
+[16:37:13.679.056][9168][DEBUG][XTP:0]register service function ok(2018).
+[16:37:13.679.058][9168][DEBUG][XTP:0]register service function ok(2220).
+[16:37:13.679.061][9168][DEBUG][XTP:0]register service function ok(2222).
+[16:37:13.679.064][9168][DEBUG][XTP:0]register service function ok(2224).
+[16:37:13.679.066][9168][DEBUG][XTP:0]End to register quote service function 1.
+[16:37:13.766.589][9168][INFO][XTP:0]Begin to login to quote server 120.27.164.138:6002.
+[16:37:13.779.593][9168][DEBUG][XTP:0]Receive login info from quote server.
+[16:37:13.779.609][9168][INFO][XTP:0]Receive trading day 20180902 from quote server success.
+[16:37:13.779.613][9168][INFO][XTP:0]Receive udp ip 230.1.1.2 from quote server success.
+[16:37:13.779.617][9168][INFO][XTP:0]Receive udp port 7722 from quote server success.
+[16:37:13.779.682][9168][INFO][XTP:0]Connect to quote server 120.27.164.138:6002 success.
+[16:37:13.780.413][9168][INFO][XTP:0]Begin to init UDP session 230.1.1.2:7722.
+[16:37:13.780.447][9432][INFO][XTP:0]thread(api work) start...
+[16:37:13.782.547][9432][DEBUG][XTP:0]service(9) call time 1
+[16:37:13.817.152][9168][INFO][XTP:0]Init thread.
+[16:37:13.822.194][9168][INFO][XTP:0]End to init UDP session 230.1.1.2:7722.
+[16:37:13.822.228][9168][INFO][XTP:0]Begin to subscribe market data with tcp.
+[16:37:13.822.261][9168][INFO][XTP:0]End to subscribe market data with tcp.
+[16:37:13.825.275][9432][DEBUG][XTP:0]Receive subscribe market data.
+[16:37:13.825.844][9432][DEBUG][XTP:0]Receive subscribe market data success.
+[16:37:13.825.856][9432][DEBUG][XTP:0]service(2005) call time 582
+[16:37:13.825.875][9432][DEBUG][XTP:0]Receive last market data.
+[16:37:13.826.063][9432][DEBUG][XTP:0]Receive last market data success.
+[16:37:13.826.069][9432][DEBUG][XTP:0]service(2018) call time 193
+[16:38:02.197.953][11096][INFO][XTP:0][init_log_file]:End: F:/xtp/bin/win/log/quote.log, api version : 1.1.18.13
+[16:38:02.198.003][11096][DEBUG][XTP:0]Begin to register quote service function.
+[16:38:02.198.011][11096][DEBUG][XTP:0]register service function ok(2250).
+[16:38:02.198.016][11096][DEBUG][XTP:0]register service function ok(2001).
+[16:38:02.198.020][11096][DEBUG][XTP:0]register service function ok(2002).
+[16:38:02.198.024][11096][DEBUG][XTP:0]register service function ok(2003).
+[16:38:02.198.027][11096][DEBUG][XTP:0]register service function ok(2200).
+[16:38:02.198.031][11096][DEBUG][XTP:0]register service function ok(2201).
+[16:38:02.198.035][11096][DEBUG][XTP:0]register service function ok(2202).
+[16:38:02.198.039][11096][DEBUG][XTP:0]register service function ok(2210).
+[16:38:02.198.042][11096][DEBUG][XTP:0]register service function ok(2211).
+[16:38:02.198.046][11096][DEBUG][XTP:0]register service function ok(2212).
+[16:38:02.198.050][11096][DEBUG][XTP:0]register service function ok(2011).
+[16:38:02.198.054][11096][DEBUG][XTP:0]register service function ok(51).
+[16:38:02.198.095][11096][DEBUG][XTP:0]register service function ok(53).
+[16:38:02.198.101][11096][DEBUG][XTP:0]register service function ok(9).
+[16:38:02.198.105][11096][DEBUG][XTP:0]register service function ok(2005).
+[16:38:02.198.109][11096][DEBUG][XTP:0]register service function ok(2006).
+[16:38:02.198.112][11096][DEBUG][XTP:0]register service function ok(2205).
+[16:38:02.198.116][11096][DEBUG][XTP:0]register service function ok(2206).
+[16:38:02.198.119][11096][DEBUG][XTP:0]register service function ok(2215).
+[16:38:02.198.123][11096][DEBUG][XTP:0]register service function ok(2216).
+[16:38:02.198.127][11096][DEBUG][XTP:0]register service function ok(2012).
+[16:38:02.198.130][11096][DEBUG][XTP:0]register service function ok(2018).
+[16:38:02.198.134][11096][DEBUG][XTP:0]register service function ok(2220).
+[16:38:02.198.137][11096][DEBUG][XTP:0]register service function ok(2222).
+[16:38:02.198.141][11096][DEBUG][XTP:0]register service function ok(2224).
+[16:38:02.198.145][11096][DEBUG][XTP:0]End to register quote service function 1.
+[16:38:02.290.682][11096][INFO][XTP:0]Begin to login to quote server 120.27.164.138:6002.
+[16:38:02.311.881][11096][DEBUG][XTP:0]Receive login info from quote server.
+[16:38:02.311.906][11096][INFO][XTP:0]Receive trading day 20180902 from quote server success.
+[16:38:02.311.910][11096][INFO][XTP:0]Receive udp ip 230.1.1.2 from quote server success.
+[16:38:02.311.913][11096][INFO][XTP:0]Receive udp port 7722 from quote server success.
+[16:38:02.312.000][11096][INFO][XTP:0]Connect to quote server 120.27.164.138:6002 success.
+[16:38:02.312.746][11096][INFO][XTP:0]Begin to init UDP session 230.1.1.2:7722.
+[16:38:02.312.775][21164][INFO][XTP:0]thread(api work) start...
+[16:38:02.317.436][21164][DEBUG][XTP:0]service(9) call time 1
+[16:38:02.351.421][11096][INFO][XTP:0]Init thread.
+[16:38:02.356.399][11096][INFO][XTP:0]End to init UDP session 230.1.1.2:7722.
+[16:38:02.356.426][11096][INFO][XTP:0]Begin to subscribe market data with tcp.
+[16:38:02.356.468][11096][INFO][XTP:0]End to subscribe market data with tcp.
+[16:38:02.362.074][21164][DEBUG][XTP:0]Receive subscribe market data.
+[16:38:02.362.448][21164][DEBUG][XTP:0]Receive subscribe market data success.
+[16:38:02.362.455][21164][DEBUG][XTP:0]service(2005) call time 382
+[16:38:02.363.042][21164][DEBUG][XTP:0]Receive last market data.
+[16:38:02.363.321][21164][DEBUG][XTP:0]Receive last market data success.
+[16:38:02.363.327][21164][DEBUG][XTP:0]service(2018) call time 286
+[16:38:34.489.540][21404][INFO][XTP:0][init_log_file]:End: F:/xtp/bin/win/log/quote.log, api version : 1.1.18.13
+[16:38:34.489.612][21404][DEBUG][XTP:0]Begin to register quote service function.
+[16:38:34.489.625][21404][DEBUG][XTP:0]register service function ok(2250).
+[16:38:34.489.632][21404][DEBUG][XTP:0]register service function ok(2001).
+[16:38:34.489.638][21404][DEBUG][XTP:0]register service function ok(2002).
+[16:38:34.489.644][21404][DEBUG][XTP:0]register service function ok(2003).
+[16:38:34.489.649][21404][DEBUG][XTP:0]register service function ok(2200).
+[16:38:34.489.655][21404][DEBUG][XTP:0]register service function ok(2201).
+[16:38:34.489.661][21404][DEBUG][XTP:0]register service function ok(2202).
+[16:38:34.489.666][21404][DEBUG][XTP:0]register service function ok(2210).
+[16:38:34.489.672][21404][DEBUG][XTP:0]register service function ok(2211).
+[16:38:34.489.677][21404][DEBUG][XTP:0]register service function ok(2212).
+[16:38:34.489.683][21404][DEBUG][XTP:0]register service function ok(2011).
+[16:38:34.489.688][21404][DEBUG][XTP:0]register service function ok(51).
+[16:38:34.489.694][21404][DEBUG][XTP:0]register service function ok(53).
+[16:38:34.489.699][21404][DEBUG][XTP:0]register service function ok(9).
+[16:38:34.489.705][21404][DEBUG][XTP:0]register service function ok(2005).
+[16:38:34.489.710][21404][DEBUG][XTP:0]register service function ok(2006).
+[16:38:34.489.716][21404][DEBUG][XTP:0]register service function ok(2205).
+[16:38:34.489.721][21404][DEBUG][XTP:0]register service function ok(2206).
+[16:38:34.489.727][21404][DEBUG][XTP:0]register service function ok(2215).
+[16:38:34.489.779][21404][DEBUG][XTP:0]register service function ok(2216).
+[16:38:34.489.787][21404][DEBUG][XTP:0]register service function ok(2012).
+[16:38:34.489.793][21404][DEBUG][XTP:0]register service function ok(2018).
+[16:38:34.489.798][21404][DEBUG][XTP:0]register service function ok(2220).
+[16:38:34.489.804][21404][DEBUG][XTP:0]register service function ok(2222).
+[16:38:34.489.810][21404][DEBUG][XTP:0]register service function ok(2224).
+[16:38:34.489.815][21404][DEBUG][XTP:0]End to register quote service function 1.
+[16:38:34.591.838][21404][INFO][XTP:0]Begin to login to quote server 120.27.164.138:6002.
+[16:38:34.605.446][21404][DEBUG][XTP:0]Receive login info from quote server.
+[16:38:34.605.467][21404][INFO][XTP:0]Receive trading day 20180902 from quote server success.
+[16:38:34.605.471][21404][INFO][XTP:0]Receive udp ip 230.1.1.2 from quote server success.
+[16:38:34.605.474][21404][INFO][XTP:0]Receive udp port 7722 from quote server success.
+[16:38:34.605.542][21404][INFO][XTP:0]Connect to quote server 120.27.164.138:6002 success.
+[16:38:34.606.248][21404][INFO][XTP:0]Begin to init UDP session 230.1.1.2:7722.
+[16:38:34.606.275][2704][INFO][XTP:0]thread(api work) start...
+[16:38:34.608.426][2704][DEBUG][XTP:0]service(9) call time 1
+[16:38:34.643.735][21404][INFO][XTP:0]Init thread.
+[16:38:34.648.842][21404][INFO][XTP:0]End to init UDP session 230.1.1.2:7722.
+[16:38:34.648.878][21404][INFO][XTP:0]Begin to subscribe market data with tcp.
+[16:38:34.648.919][21404][INFO][XTP:0]End to subscribe market data with tcp.
+[16:38:34.651.897][2704][DEBUG][XTP:0]Receive subscribe market data.
+[16:38:34.652.392][2704][DEBUG][XTP:0]Receive subscribe market data success.
+[16:38:34.652.404][2704][DEBUG][XTP:0]service(2005) call time 509
+[16:38:34.652.453][2704][DEBUG][XTP:0]Receive last market data.
+[16:38:34.652.826][2704][DEBUG][XTP:0]Receive last market data success.
+[16:38:34.652.854][2704][DEBUG][XTP:0]service(2018) call time 402
